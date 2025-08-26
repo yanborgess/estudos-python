@@ -4,7 +4,7 @@ totalfem = 0
 totalmasc = 0
 mediamasc = []
 
-for i in range(4):
+for i in range(15):
     alt = float(input("Digite sua altura: "))
     total.append(alt)
     sexo = input("Qual seu gênero: MASCULINO (M) FEMININO (F): ").upper()
